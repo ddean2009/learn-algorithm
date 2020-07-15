@@ -12,6 +12,10 @@
         <module>sorting</module>
         <module>list</module>
         <module>stack</module>
+        <module>queue</module>
+        <module>tree</module>
+        <module>heap</module>
+        <module>hashTable</module>
     </modules>
 
     <dependencies>
