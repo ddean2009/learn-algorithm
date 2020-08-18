@@ -16,6 +16,7 @@
         <module>tree</module>
         <module>heap</module>
         <module>hashTable</module>
+        <module>cyclefinding</module>
     </modules>
 
     <dependencies>
