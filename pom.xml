@@ -17,6 +17,7 @@
         <module>heap</module>
         <module>hashTable</module>
         <module>cyclefinding</module>
+        <module>leecode</module>
     </modules>
 
     <dependencies>
