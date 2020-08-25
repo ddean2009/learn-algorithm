@@ -18,6 +18,7 @@
         <module>hashTable</module>
         <module>cyclefinding</module>
         <module>leecode</module>
+        <module>recursion</module>
     </modules>
 
     <dependencies>
