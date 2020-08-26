@@ -1,4 +1,4 @@
-package com.flydean;
+package com.flydean.easy;
 
 import java.util.HashMap;
 
@@ -31,7 +31,7 @@ import java.util.HashMap;
  * 所需的额外空间取决于哈希表中存储的元素数量，该表中存储了 n 个元素。
  *
  */
-public class No1Solution {
+public class No1TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int[] result=new int[2];
         HashMap<Integer, Integer> map= new HashMap();
