@@ -63,7 +63,7 @@ public class No144preorderTraversal {
         return resultList;
     }
 
-    public class TreeNode {
+    public static class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;

@@ -73,7 +73,7 @@ public class No141hasCycle {
         return true;
     }
 
-    public class ListNode {
+    public static class ListNode {
         int val;
         ListNode next;
         ListNode(int x) { val = x; }

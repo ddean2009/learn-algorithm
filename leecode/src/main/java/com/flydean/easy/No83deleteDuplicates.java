@@ -38,7 +38,7 @@ public class No83deleteDuplicates {
         return head;
     }
 
-    public class ListNode {
+    public static class ListNode {
       int val;
       ListNode next;
       ListNode(int x) { val = x; }

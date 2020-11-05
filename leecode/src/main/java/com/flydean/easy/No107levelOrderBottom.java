@@ -60,7 +60,7 @@ public class No107levelOrderBottom {
         return lists;
     }
 
-    public class TreeNode {
+    public static class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;

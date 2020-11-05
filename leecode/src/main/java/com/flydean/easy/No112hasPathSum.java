@@ -91,7 +91,7 @@ public class No112hasPathSum {
     }
 
 
-    public class TreeNode {
+    public static class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;

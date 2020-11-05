@@ -116,7 +116,7 @@ public class No100isSameTree {
     }
 
 
-      public class TreeNode {
+      public static class TreeNode {
           int val;
           TreeNode left;
           TreeNode right;

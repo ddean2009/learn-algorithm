@@ -86,7 +86,7 @@ public class No21mergeTwoLists {
 
 
 
-   class ListNode {
+   static class ListNode {
      int val;
      ListNode next;
      ListNode() {}
