@@ -19,6 +19,7 @@
         <module>cyclefinding</module>
         <module>leecode</module>
         <module>recursion</module>
+        <module>trie</module>
     </modules>
 
     <dependencies>
