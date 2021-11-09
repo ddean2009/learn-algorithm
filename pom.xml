@@ -20,6 +20,7 @@
         <module>leecode</module>
         <module>recursion</module>
         <module>trie</module>
+        <module>array</module>
     </modules>
 
     <dependencies>
@@ -44,8 +45,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.1</version>
                 <configuration>
-                    <source>14</source>
-                    <target>14</target>
+                    <source>17</source>
+                    <target>17</target>
                 </configuration>
             </plugin>
         </plugins>
