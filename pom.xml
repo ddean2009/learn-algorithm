@@ -21,6 +21,10 @@
         <module>recursion</module>
         <module>trie</module>
         <module>array</module>
+        <module>binarySearch</module>
+        <module>binarySearch</module>
+        <module>binarySearch</module>
+        <module>binary</module>
     </modules>
 
     <dependencies>
